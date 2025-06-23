@@ -1,8 +1,0 @@
-[global]
-showWarningOnDirectExecution = false
-
-[server]
-headless = true
-enableCORS = false
-port = $PORT
-enableXsrfProtection = false
